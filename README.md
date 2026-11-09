@@ -1,1 +1,2 @@
 # vexaassist
+Termos de Seriço
